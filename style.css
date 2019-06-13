@@ -1,0 +1,11 @@
+#score,#highScore {
+    position: relative;
+    left: 200px;
+    top: 70px;
+    border: 7px solid red;
+    vertical-align: middle;
+}
+
+body {
+    vertical-align: middle;
+}
